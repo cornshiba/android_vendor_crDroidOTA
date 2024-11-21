@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-15.0-20241120-a52sxq-v11.0-BETA.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/a52sxq/11.x/crDroidAndroid-15.0-20241120-a52sxq-v11.0-BETA.zip/download",
+			"timestamp": 1732129269,
+			"md5": "966be2038c9de55bf5007181c6d7dccd",
+			"sha256": "b8a625c2048b04bdf1e1911e0a4a2da60db0cf591703c400b9772b2f1d7bd94a",
+			"size": 1611762462,
+			"version": "11.0",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
