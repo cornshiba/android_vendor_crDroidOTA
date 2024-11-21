@@ -1,27 +1,27 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
+			"maintainer": "Cornshiba",
+			"oem": "Samsung",
+			"device": "Galaxy A52s 5G",
 			"filename": "crDroidAndroid-15.0-20241120-a52sxq-v11.0-BETA.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/a52sxq/11.x/crDroidAndroid-15.0-20241120-a52sxq-v11.0-BETA.zip/download",
+			"download": "https://github.com/cornshiba/android_vendor_crDroidOTA/releases/download/a15beta/crDroidAndroid-15.0-20241120-a52sxq-v11.0-BETA.zip",
 			"timestamp": 1732129269,
 			"md5": "966be2038c9de55bf5007181c6d7dccd",
 			"sha256": "b8a625c2048b04bdf1e1911e0a4a2da60db0cf591703c400b9772b2f1d7bd94a",
 			"size": 1611762462,
 			"version": "11.0",
-			"buildtype": "",
+			"buildtype": "Monthly",
 			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
+			"gapps": "https://nikgapps.com/",
+			"firmware": "https://samfw.com/firmware/SM-A528B",
+			"modem": "https://samfw.com/firmware/SM-A528B",
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": "",
-			"dt": "",
-			"common-dt": "",
+			"telegram": "https://t.me/cornshiba",
+			"dt": "https://github.com/cornshiba/android_device_samsung_a52sxq",
+			"common-dt": "https://github.com/cornshiba/android_device_samsung_sm7325-common",
 			"kernel": ""
 		}
 	]
